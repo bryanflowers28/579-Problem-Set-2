@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif, 'Times New Roman';
+    background-color: #01245a;
+    color: #ffffff;
+    display: block;
+    margin-left: 25px;
+    margin-right: auto;
+}
+
+p {
+    font-size: 20px;
+}
+
+.introduction {
+    font-size: 48px;
+    background-color: #01245a;
+    color: #d31010;
+}
+
+#interests {
+    font-size: 48px;
+    background-color: #01245a;
+    color: #e4d61b;
+}
+
+#daisy {
+    font-size: 38px;
+    background-color: #01245a;
+    color: #19d623;
+}
